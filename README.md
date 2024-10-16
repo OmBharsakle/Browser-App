@@ -71,7 +71,6 @@ To clone and run this project, follow these steps:
    <img src="https://github.com/user-attachments/assets/50dbf713-9b4f-4033-b7f6-96cd11944733" height="500">
    <img src="https://github.com/user-attachments/assets/60fc09d7-7d1e-4da4-95c0-4a12ff5ce5ac" height="500">
    <img src="https://github.com/user-attachments/assets/45fba2b3-7e51-43ac-9198-6e2ed585efea" height="500">
-   <img src="https://github.com/user-attachments/assets/db69dd60-b2ed-4a2e-8220-a360cd0dfb5" height="500">
    <img src="https://github.com/user-attachments/assets/55f1bab6-e3f4-4d00-92ed-fbfe1a5a9ac9" height="500">
 
 </div>
