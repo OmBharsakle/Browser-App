@@ -21,7 +21,6 @@ A customizable and feature-rich web browser built using Flutter, designed for a 
 - [`font_awesome_flutter`](https://pub.dev/packages/font_awesome_flutter): ^10.7.0
 - [`flutter_inappwebview`](https://pub.dev/packages/flutter_inappwebview): ^6.1.5
 - [`provider`](https://pub.dev/packages/provider): ^6.1.2
-- [`gap`](https://pub.dev/packages/gap): ^3.0.1
 - [`shared_preferences`](https://pub.dev/packages/shared_preferences): ^2.3.2
 - [`flex_color_scheme`](https://pub.dev/packages/flex_color_scheme): ^7.3.1
 
