@@ -63,7 +63,32 @@ To clone and run this project, follow these steps:
 
 ## Screenshots
 
-_Add screenshots or GIFs of your app here to showcase the UI and features._
+<div align="center">
+
+   <img src="https://github.com/user-attachments/assets/2a1e1bbc-2a95-4306-b8d5-2570f9cfc1ea" height="500">
+   <img src="https://github.com/user-attachments/assets/8262d28d-f91a-40c3-a416-e4112a9c39c2" height="500">
+   <img src="https://github.com/user-attachments/assets/1932b5d9-58bb-4e87-87f1-a5832db2283a" height="500">
+   <img src="https://github.com/user-attachments/assets/50dbf713-9b4f-4033-b7f6-96cd11944733" height="500">
+   <img src="https://github.com/user-attachments/assets/60fc09d7-7d1e-4da4-95c0-4a12ff5ce5ac" height="500">
+   <img src="https://github.com/user-attachments/assets/45fba2b3-7e51-43ac-9198-6e2ed585efea" height="500">
+   <img src="https://github.com/user-attachments/assets/db69dd60-b2ed-4a2e-8220-a360cd0dfb5" height="500">
+   <img src="https://github.com/user-attachments/assets/55f1bab6-e3f4-4d00-92ed-fbfe1a5a9ac9" height="500">
+
+</div>
+
+<h1></h1>
+
+## Video Demo
+
+<div align="center">
+  
+
+
+https://github.com/user-attachments/assets/6693837b-c159-4454-9ab9-cab9afbe0819
+
+
+
+</div>
 
 ## Contribution
 
