@@ -1,12 +1,14 @@
 # Browser App
 
-A customizable and feature-rich web browser built using Flutter, designed for a smooth in-app browsing experience. This app integrates multiple search engines, tracks browsing history, and provides a visually appealing and responsive user interface.
+A customizable and feature-rich web browser built using Flutter, designed for a smooth in-app browsing experience. This app provides various essential browser functionalities, including history management, navigation controls, and search engine selection.
 
 ## Features
 
 - **In-App Web Browsing**: Browse the internet seamlessly with support for multiple tabs and advanced features using the `flutter_inappwebview` package.
-- **Search Engine Selection**: Choose from various search engines for personalized browsing.
-- **Browsing History**: The app keeps track of your browsing history for easy navigation.
+- **Forward & Backward Navigation**: Navigate between pages with ease using forward and backward controls.
+- **Refresh**: Reload the current webpage with a refresh button for instant updates.
+- **View & Delete History**: Access your browsing history and delete it when necessary to maintain privacy.
+- **Change Search Engine**: Select your preferred search engine to customize your browsing experience.
 - **Customizable UI**: Modify themes and layouts using the `flex_color_scheme` package for a personalized look and feel.
 - **User Preferences**: The app stores user settings like theme choice and search engine preferences using `shared_preferences`.
 - **Font Awesome Integration**: Enhance your app experience with clear, modern icons from `font_awesome_flutter`.
